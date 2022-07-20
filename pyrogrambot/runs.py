@@ -1,7 +1,5 @@
 import random
 from pyrogram import Client, filters
-from info import COMMAND_HAND_LER
-from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 
 RUN_STRINGS = (
@@ -39,8 +37,7 @@ RUN_STRINGS = (
 
 
 @Client.on_message(
-    filters.command("runs", COMMAND_HAND_LER) &
-    f_onw_fliter
+    filters.command("runs"
 )
 async def runs(_, message):
     """ /runs strings """
