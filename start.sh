@@ -9,4 +9,4 @@ fi
 cd /ASLU-SIRyy
 pip3 install -U -r requirements.txt
 echo "Starting TEDZO 𝙱𝙾𝚃𝚉....🔥🔥"
-python3 bot.py
+python3 main.py
