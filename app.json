@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TEDZO123/TEDZO_PYROGRAM_BOT",
-    "repository": "https://github.com/TEDZO123/TEDZO_PYROGRAM_BOT",
+    "website": "https://github.com/TEDZO123/ASLU-SIRyy",
+    "repository": "https://github.com/TEDZO123/ASLU-SIRyy",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
